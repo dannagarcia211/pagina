@@ -1,0 +1,30 @@
+h1{
+    background-color: blueviolet;
+    width: 10%;
+    border-radius: 30px;
+    border-style: dashed;
+    text-align: center;
+}
+
+header{ 
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{ 
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.slogan{
+    width: 30;
+}
+nav{
+    width: 60%;
+    background-color: pink;
+}
+
+li{
+    text-decoration: none;
+}
