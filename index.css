@@ -12,14 +12,14 @@ header{
 }
 
 ul{ 
-    width: 100%;
     display: flex;
     justify-content: space-around;
     list-style: none;
 }
 .slogan{
-    width: 30;
+    width: 30%;
 }
+
 nav{
     width: 60%;
     background-color: pink;
